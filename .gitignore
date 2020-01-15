@@ -1,0 +1,9 @@
+*.log
+*.gz
+*.deb
+*.xz
+*.dsc
+*.build
+*.changes
+*.rpm
+*.buildinfo

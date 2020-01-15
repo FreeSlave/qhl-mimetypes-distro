@@ -1,0 +1,12 @@
+Source: qhl-mimetypes
+Section: misc
+Priority: optional
+Maintainer: Roman Chistokhodov <freeslave93@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+
+Package: qhl-mimetypes
+Architecture: all
+Depends: ${misc:Depends}, shared-mime-info
+Description: Collection of mime-type definitions
+ for various Quake and Half-Life file formats.
